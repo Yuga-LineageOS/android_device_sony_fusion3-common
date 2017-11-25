@@ -74,10 +74,6 @@ lib/libmmmpod.so
 lib/libmercury.so
 lib/libmmstillomx.so
 
-# Perf
-bin/mpdecision
-vendor/lib/libqti-perfd-client.so
-
 # Protocol Buffers
 lib/libprotobuf-c.so
 
