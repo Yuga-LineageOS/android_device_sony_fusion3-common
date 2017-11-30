@@ -1,1 +1,2 @@
 persist.tareset.notfirstboot          u:object_r:updatemiscta_prop:s0
+bl.map.mode			      u:object_r:bl_map_mode_prop:s0
